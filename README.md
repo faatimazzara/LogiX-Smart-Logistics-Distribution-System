@@ -27,7 +27,7 @@ Aplikasi ini dibuat untuk simulasi proses logistik dari gudang ke toko, lengkap 
 ### ➡️ Distribusi & Pengiriman
 - **Distribusi Reguler**: biaya murah, estimasi 2–4 hari  
 - **Distribusi Express**: biaya lebih tinggi, estimasi 1 hari  
-- **Pengiriman otomatis** mengubah status distribusi  
+- **Pengiriman otomatis**: mengubah status distribusi  
 
 ### ➡️ Laporan & Statistik
 - Ringkasan barang & distribusi  
