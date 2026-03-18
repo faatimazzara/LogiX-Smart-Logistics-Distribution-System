@@ -9,6 +9,7 @@ LogiX adalah sistem manajemen **logistik, gudang, dan distribusi** berbasis Pyth
 - **Distribusi**: Reguler & Express  
 - **Pengiriman**  
 - **Laporan & statistik sistem**  
+
 Aplikasi ini dibuat untuk simulasi proses logistik dari gudang ke toko, lengkap dengan pencatatan stok, status barang, dan laporan harian.
 
 ## 🛠 Fitur Utama
