@@ -1,0 +1,11 @@
+{
+    "users": {
+        "admin": {
+            "password": "999",
+            "role": "supervisor",
+            "nama": "admin"
+        }
+        
+        }
+    
+}
